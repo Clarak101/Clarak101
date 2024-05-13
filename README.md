@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem vindo amados 🥵🥶
 
-<!--
-**Clarak101/Clarak101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Clara Camargo!
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br) 🤠
+- Estou me desenvolvendo na linguagem JavaScript 😿
+- Utilizo esse espaço para organização e compartilhamento dos projetos feitos 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+@00001126553682sp@al.educacao.sp.gov.br
+
+@Latte
+
+
+
+![](https://media1.tenor.com/m/1cysKWS2dQ0AAAAC/%D0%B2%D0%B0%D1%89%D0%B5-%D0%BA%D0%B0%D0%B9%D1%84.gif).)
